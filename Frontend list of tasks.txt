@@ -1,0 +1,14 @@
+1
+"Form1.rar" Сайт на bootstrap-3.3.5-dist так же при разработке
+использовались технлологии Node.js, LESS, Bower
+
+2
+"Form1.rar" Страница валидации с использованием jquery-ui
+
+
+3
+"appGame.rar" Игра - угадай где лишний смайл на JavaScript
+
+4
+Игра угадай цвет на JavaScript
+
